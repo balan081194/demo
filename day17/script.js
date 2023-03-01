@@ -1,6 +1,5 @@
 //// Display countown from 10 to 1 and then display Happy independence day- Days17-Task////
        /////using Hell call back function////
-
        function one (cb = () =>{}) {
         countdown("10")
         cb();
